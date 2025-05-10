@@ -1,0 +1,40 @@
+.bg-sidebar {
+  background-color: hsl(var(--sidebar-background));
+  color: hsl(var(--sidebar-foreground));
+}
+
+.bg-dark-700 {
+  background-color: hsl(240, 3.7%, 15.9%);
+}
+
+.bg-dark-800 {
+  background-color: hsl(240, 3.7%, 12%);
+}
+
+.bg-dark-900 {
+  background-color: hsl(240, 10%, 3.9%);
+}
+
+.border-dark-600 {
+  border-color: hsl(240, 3.7%, 18%);
+}
+
+.border-dark-700 {
+  border-color: hsl(240, 3.7%, 15.9%);
+}
+
+.border-dark-800 {
+  border-color: hsl(240, 3.7%, 12%);
+}
+
+.text-gray-400 {
+  color: hsl(240, 5%, 64.9%);
+}
+
+.text-sidebar-foreground {
+  color: hsl(var(--sidebar-foreground));
+}
+
+.text-white {
+  color: #fff;
+}
