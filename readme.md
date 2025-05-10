@@ -1,5 +1,3 @@
-Thanks for sharing your Replit `replit.nix` and workflow setup. To **run this Replit project locally**, here's a step-by-step guide tailored to your configuration, which uses **Node.js**, **PostgreSQL**, and possibly **Vite/Nuxt/Next (based on `npm run dev`)**:
-
 ---
 
 ### ✅ **1. Prerequisites on Your Local Machine**
